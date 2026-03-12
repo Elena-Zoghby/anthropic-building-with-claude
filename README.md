@@ -9,3 +9,6 @@ We showed how important it is to include a system prompt to the chatbot effectiv
 
 # Exercise 3 - Temperature Effect
 Temperature defines the randomness of the model. Try increasing and decreasing the temperature to visualize the model's output in each case.
+
+# Exercise 4 - Streaming
+Streaming enhances user's experience by streaming data chunk by chunk rather than as a whole. It hides the delay that usually happens when we request a response from the AI.
