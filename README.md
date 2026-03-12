@@ -14,4 +14,4 @@ Temperature defines the randomness of the model. Try increasing and decreasing t
 Streaming enhances user's experience by streaming data chunk by chunk rather than as a whole. It hides the delay that usually happens when we request a response from the AI.
 
 # Exercise 5 - Control Model Output
-Did you know that you can control an AI's output message by providing it with prefilled messages or stop sequences?
+Did you know that you can control an AI's output message by providing it with prefilled messages or stop sequences? By controlling the provided output, you can make the model's response biased or of consistent length.
