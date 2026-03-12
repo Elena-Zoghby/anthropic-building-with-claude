@@ -17,4 +17,4 @@ Streaming enhances user's experience by streaming data chunk by chunk rather tha
 Did you know that you can control an AI's output message by providing it with prefilled messages or stop sequences? By controlling the provided output, you can make the model's response biased or of consistent length.
 
 # Exercise 6 - Prompt Evaluation
-Everyone can write a prompt, but what seperates a prompt from another? Check out the different techniques used to evaluate a prompt (code based, model based..) in the notebooks provided.
+Just because your prompt worked once, doesn't mean it's going to work always. Check out the different techniques used to evaluate a prompt (code based, model based..) in the notebooks provided.
