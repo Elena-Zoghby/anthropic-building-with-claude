@@ -24,3 +24,6 @@ Prompt engineering is a technique used to refine prompts to generate better outp
 
 # Exercise 8 - Tool Use
 What seperates an AI agent from a chatbot is its ability to handle dynamic data. By importing tool functions, we allow our model to retrieve live information (weather, browsing websites,...) making it a dynamic model or agent.
+
+# Exercise 9 - RAG
+To be able to analyze 1000 pages in a document, Claude uses the RAG technique. This technique consists of splitting the document into multiple chunks, rather than taking it as a whole, using different techniques. Check out the scripts to learn more!
