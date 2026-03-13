@@ -18,3 +18,6 @@ Did you know that you can control an AI's output message by providing it with pr
 
 # Exercise 6 - Prompt Evaluation
 Just because your prompt worked once, doesn't mean it's going to work always. Check out the different techniques used to evaluate a prompt (code based, model based..) in the notebooks provided.
+
+# Exercise 7 - Prompt Engineering
+Prompt engineering is a technique used to refine prompts to generate better outputs. To do this, we can provide input-output examples (one-shot, multi-shot), be clear and direct, and include XML tags in our prompts. 
