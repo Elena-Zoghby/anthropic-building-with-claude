@@ -21,3 +21,6 @@ Just because your prompt worked once, doesn't mean it's going to work always. Ch
 
 # Exercise 7 - Prompt Engineering
 Prompt engineering is a technique used to refine prompts to generate better outputs. To do this, we can provide input-output examples (one-shot, multi-shot), be clear and direct, and include XML tags in our prompts. 
+
+# Exercise 8 - Tool Use
+What seperates an AI agent from a chatbot is its ability to handle dynamic data. By importing tool functions, we allow our model to retrieve live information (weather, browsing websites,...) making it a dynamic model or agent.
