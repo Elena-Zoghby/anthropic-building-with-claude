@@ -27,3 +27,6 @@ What seperates an AI agent from a chatbot is its ability to handle dynamic data.
 
 # Exercise 9 - RAG
 To be able to analyze 1000 pages in a document, Claude uses the RAG technique. This technique consists of splitting the document into multiple chunks, rather than taking it as a whole, using different techniques. Check out the scripts to learn more!
+
+# Exercise 10 - Features in Claude
+Claude has multiple features: extended thinking, images and pdf processing, prompt caching and citations. Discover the code snippets to learn more about how we implement such features in our code.
